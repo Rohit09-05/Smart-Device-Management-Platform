@@ -37,8 +37,8 @@ This backend service enables users to register, authenticate, and manage their s
 1. Clone the repository:
 
     ```
-    git clone 
-    cd smart-device-backend
+    git clone https://github.com/Rohit09-05/Smart-Device-Management-Platform.git
+    cd Smart-Device-Management-Platform
     ```
 
 2. Install dependencies:
@@ -122,4 +122,5 @@ MIT License
 
 Your Name – rohittt0918@gmail.com
 Repository:https://github.com/Rohit09-05
+
 

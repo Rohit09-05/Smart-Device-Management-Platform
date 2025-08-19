@@ -13,8 +13,6 @@ This backend service enables users to register, authenticate, and manage their s
 - Device heartbeat tracking
 - Logging device events and usage aggregation
 - Input validation and secure password hashing
-- Rate limiting and background jobs (optional)
-- Dockerized environment setup (optional)
 
 ---
 
@@ -23,8 +21,6 @@ This backend service enables users to register, authenticate, and manage their s
 - Node.js (Express)
 - MongoDB
 - JWT for security
-- Joi/Zod for validation
-- Docker (optional)
 
 ---
 
@@ -33,7 +29,6 @@ This backend service enables users to register, authenticate, and manage their s
 - Node.js v18+
 - MongoDB running locally or on a cloud service
 - npm package manager
-- (Optional) Docker and Docker Compose
 
 ---
 
@@ -42,7 +37,7 @@ This backend service enables users to register, authenticate, and manage their s
 1. Clone the repository:
 
     ```
-    git clone <your-repo-url>
+    git clone 
     cd smart-device-backend
     ```
 
@@ -111,16 +106,6 @@ This backend service enables users to register, authenticate, and manage their s
 
 ---
 
-## Docker Usage (Optional)
-
-- Start with:
-
-    ```
-    docker-compose up --build
-    ```
-
----
-
 ## Contribution
 
 Contributions welcome! Please submit issues and pull requests.
@@ -135,5 +120,6 @@ MIT License
 
 ## Contact
 
-Your Name – your.email@example.com  
-Repository: <your-repo-url>
+Your Name – rohittt0918@gmail.com
+Repository:https://github.com/Rohit09-05
+
